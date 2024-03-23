@@ -1,6 +1,6 @@
 {
-    "name": "netplix_clone",
-    "short_name": "netplix_clone",
+    "name": "netflix_clone",
+    "short_name": "netflix_clone",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

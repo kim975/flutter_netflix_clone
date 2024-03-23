@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:netplix_clone/screen/home_screen.dart';
-import 'package:netplix_clone/widget/bottom_bar.dart';
+import 'package:netflix_clone/screen/home_screen.dart';
+import 'package:netflix_clone/widget/bottom_bar.dart';
 
 void main() {
   runApp(MyApp());
