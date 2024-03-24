@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:netflix_clone/model/model_movie.dart';
+import 'package:netflix_clone/widget/box_slider.dart';
 import 'package:netflix_clone/widget/carousel_slider.dart';
 import 'package:netflix_clone/widget/circle_slider.dart';
 
@@ -51,6 +52,9 @@ class _HomeScreenState extends State<HomeScreen> {
           ],
         ),
         CircleSlider(
+          movies: movies,
+        ),
+        BoxSlider(
           movies: movies,
         ),
       ],
