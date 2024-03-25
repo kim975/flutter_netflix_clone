@@ -126,7 +126,6 @@ class _CarouselImageState extends State<CarouselImage> {
             ),
           ),
           Container(
-            color: Colors.black,
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: makeIndicator(likes, _currentPage),
